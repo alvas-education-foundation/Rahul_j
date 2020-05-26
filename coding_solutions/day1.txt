@@ -1,3 +1,6 @@
+Java prog to print even and odd number series respectively from two threads
+
+
 public class PingPong extends Thread {
 static StringBuilder object = new StringBuilder("");
 
@@ -37,6 +40,10 @@ e.printStackTrace();
 
 ========================================================================================================================
 ========================================================================================================================
+
+program to print the frequency of each character
+
+
 package pk;
 import java.util.Scanner;
 public class StringOperators
