@@ -1,3 +1,7 @@
+program for shortest palindrome
+
+
+
 package shortestpalindromeexample.java;
 import java.util.Scanner;
  
@@ -40,7 +44,7 @@ System.out.println("Shortest palindrome of "+str+" is "+shortestPalindrome(str))
 
 ===========================================
 ===========================================
-
+code to identify given linked list is palindrome or not using stack
 
 import java.util.Stack;
 class Node {
